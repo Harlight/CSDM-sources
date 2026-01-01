@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 5,
+    "description": "§e中文的闪烁标语和终末之诗！§d加载资源包后需重启游戏",
+    "supported_formats": {
+      "min_inclusive": 5,
+      "max_inclusive": 75.0
+    }
+  }
+}
